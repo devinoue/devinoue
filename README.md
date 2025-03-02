@@ -6,7 +6,7 @@ TypeScript developer here, mostly working with React. I occasionally contribute 
 - Building stuff in the React ecosystem
 - Running a Solana testnet validator node
 
-I write about tech stuff sometimes on [Twitter/X](https://x.com/DevInoue) if you're interested.
+I write about tech stuff sometimes on [Twitter/X](https://x.com/DevInoue) and [blog](https://zenn.dev/devinoue) if you're interested.
 
 ## Tech Stack
 - Frontend: React, TypeScript, Modern CSS
