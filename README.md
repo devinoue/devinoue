@@ -11,6 +11,6 @@ I write about tech stuff sometimes on [Twitter/X](https://x.com/DevInoue) and [b
 ## Tech Stack
 - Frontend: React, TypeScript, Modern CSS
 - Testing: Jest, React Testing Library, Cypress
-- Tools: Git, Docker, AWS
+- Etc: Git, Docker, AWS
 
 Feel free to check out my contributions!
